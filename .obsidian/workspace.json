@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c8e0f10e34beef2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "86628c141360179f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bca9950a3397690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vektorräume/Grundlagen/03 Dimension eines Vektorraums.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 Dimension eines Vektorraums"
+            }
+          },
+          {
+            "id": "f60d113023656c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rechnen mit Matrizen/01 Matrix und Vektorraum.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01 Matrix und Vektorraum"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6017072811dbef80",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bd2e44d4f8aee70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc301e097f253cdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "57bafb10a937e61a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90af026a29738905",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "8c4b5cf6a8503dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "a04338f62806e97d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1957c05742e72c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "a71895cd00ca950f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4b01f27dae241ffd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6dfa33d72a11c727",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f60d113023656c47",
+  "lastOpenFiles": [
+    "Rechnen mit Matrizen/03 Rang und Invertierbarkeit.md",
+    "Rechnen mit Matrizen/02 LGS Theorie und Gauss.md",
+    "Rechnen mit Matrizen/01 Matrix und Vektorraum.md",
+    "Rang einer Matrix.md",
+    "Inverse einer Matrix.md",
+    "Lineare Gleichugssysteme.md",
+    "Zeilenoperationen.md",
+    "LGSUndElementarmatrizen.md",
+    "Matrizen und Matrizen.md",
+    "Matrix und Vektorrechnung.md",
+    "Vektorräume/Lineare Abbildungen/01 Lineare Abbildungen.md",
+    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen/03 Relationen & Äquivalenzrelationen.md",
+    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen/02 Permutationen.md",
+    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen/01 Abbildungen und Funktionen.md",
+    "Algebraische Grundstrukturen/Arithmetik & Zahlenbereiche/02 Komplexen Zahlen.md",
+    "Algebraische Grundstrukturen/Arithmetik & Zahlenbereiche/01 Euklidischer Algorithmus & Kettenbrüche.md",
+    "Algebraische Grundstrukturen/Algebraische Strukturen/03 Grundstrukturen - Ringe und Körper.md",
+    "Algebraische Grundstrukturen/Algebraische Strukturen/02 Homomorphismen & Quotientengruppen.md",
+    "Algebraische Grundstrukturen/Algebraische Strukturen/01 Grundstrukturen - Gruppen.md",
+    "Vektorräume/Quotientenräume & Isomorphie/01 Der Isomorphiesatz.md",
+    "Vektorräume/Lineare Abbildungen/03 Der Dimensionssatz.md",
+    "Vektorräume/Lineare Abbildungen/02 Transformationen von Räumen.md",
+    "Vektorräume/Grundlagen/03 Dimension eines Vektorraums.md",
+    "Vektorräume/Grundlagen/02 Span eines Vektorraums.md",
+    "Vektorräume/Grundlagen/01 Vektorraum Grundlagen.md",
+    "Matrixoperationen.md",
+    "Rechnen mit Matrizen",
+    "Vektorräume/Quotientenräume & Isomorphie",
+    "Vektorräume/Lineare Abbildungen",
+    "Vektorräume/Grundlagen",
+    "Vektorräume/Definition",
+    "Algebraische Grundstrukturen/Algebraische Strukturen/Übersicht.png",
+    "Untitled.canvas",
+    "Vektorräume",
+    "Algebraische Grundstrukturen/Algebraische Strukturen",
+    "Algebraische Grundstrukturen/Arithmetik & Zahlenbereiche",
+    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen",
+    "Algebraische Grundstrukturen"
+  ]
+}
