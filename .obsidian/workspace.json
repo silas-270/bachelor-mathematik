@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp zu Vergleich.md",
+                "file": "LLM_Prompts.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Temp zu Vergleich"
+              "title": "LLM_Prompts"
             }
           }
         ]
@@ -184,7 +184,7 @@
   "active": "013adce8bdaf7fd9",
   "lastOpenFiles": [
     "Unbenannt.md",
-    "Temp zu Vergleich.md",
+    "LLM_Prompts.md",
     "Analysis/04 Differenzierbarkeit/02 Sätze & Regeln.md",
     "Analysis/03 Stetigkeit/02 Eigenschaften stetiger Funktionen.md",
     "Analysis/03 Stetigkeit/01 Stetige Funktionen.md",
