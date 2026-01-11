@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/04 Differenzierbarkeit/01 Diffbare Funktionen.md",
+                "file": "Temp zu Vergleich.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01 Diffbare Funktionen"
+              "title": "Temp zu Vergleich"
             }
           }
         ]
@@ -183,11 +183,13 @@
   },
   "active": "013adce8bdaf7fd9",
   "lastOpenFiles": [
-    "Analysis/03 Stetigkeit/02 Eigenschaften stetiger Funktionen.md",
-    "Analysis/04 Differenzierbarkeit/01 Diffbare Funktionen.md",
-    "Analysis/04 Differenzierbarkeit",
-    "Analysis/03 Stetigkeit/01 Stetige Funktionen.md",
+    "Unbenannt.md",
     "Temp zu Vergleich.md",
+    "Analysis/04 Differenzierbarkeit/02 Sätze & Regeln.md",
+    "Analysis/03 Stetigkeit/02 Eigenschaften stetiger Funktionen.md",
+    "Analysis/03 Stetigkeit/01 Stetige Funktionen.md",
+    "Analysis/04 Differenzierbarkeit/01 Differenzierbarkeit.md",
+    "Analysis/04 Differenzierbarkeit",
     "Analysis/02 Folgen und Reihen/03 Potenzreihen.md",
     "Analysis/02 Folgen und Reihen/02 Unendliche Reihen.md",
     "Analysis/02 Folgen und Reihen/01 Zahlenfolgen.md",
@@ -210,8 +212,6 @@
     "Rechnen mit Matrizen/03 Rang und Invertierbarkeit.md",
     "Rechnen mit Matrizen/02 LGS Theorie und Gauss.md",
     "Rechnen mit Matrizen/01 Matrix und Vektorraum.md",
-    "Rang einer Matrix.md",
-    "Inverse einer Matrix.md",
     "Rechnen mit Matrizen",
     "Vektorräume/Quotientenräume & Isomorphie",
     "Vektorräume/Lineare Abbildungen",
