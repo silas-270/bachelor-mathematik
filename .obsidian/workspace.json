@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "86628c141360179f",
+        "id": "ccd7d3c8e1e50b22",
         "type": "tabs",
         "children": [
           {
-            "id": "2bca9950a3397690",
+            "id": "013adce8bdaf7fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vektorräume/Grundlagen/03 Dimension eines Vektorraums.md",
-                "mode": "preview",
-                "source": false
+                "file": "Analysis/04 Differenzierbarkeit/01 Diffbare Funktionen.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "03 Dimension eines Vektorraums"
-            }
-          },
-          {
-            "id": "f60d113023656c47",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "01 Diffbare Funktionen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -177,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,34 +181,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f60d113023656c47",
+  "active": "013adce8bdaf7fd9",
   "lastOpenFiles": [
+    "Analysis/03 Stetigkeit/02 Eigenschaften stetiger Funktionen.md",
+    "Analysis/04 Differenzierbarkeit/01 Diffbare Funktionen.md",
+    "Analysis/04 Differenzierbarkeit",
+    "Analysis/03 Stetigkeit/01 Stetige Funktionen.md",
+    "Temp zu Vergleich.md",
+    "Analysis/02 Folgen und Reihen/03 Potenzreihen.md",
+    "Analysis/02 Folgen und Reihen/02 Unendliche Reihen.md",
+    "Analysis/02 Folgen und Reihen/01 Zahlenfolgen.md",
+    "Analysis/prompt.md",
+    "Analysis/01 Grundlagen/03 Rechenregeln.md",
+    "Analysis/01 Grundlagen/02 Mengenlehre, Schranken & Topologie.md",
+    "Analysis/01 Grundlagen/01 Beweismethoden.md",
+    "Lineare Algebra/Vektorräume/Unbenannt.md",
+    "Lineare Algebra/01 Algebraische Grundstrukturen/02 Arithmetik & Zahlenbereiche/02 Komplexen Zahlen.md",
+    "Analysis/01 Grundlagen",
+    "Analysis/Rechnen mit Komplexen Zahlen.md",
+    "Lineare Algebra/01 Algebraische Grundstrukturen/03 Algebraische Strukturen/02 Homomorphismen & Quotientengruppen.md",
+    "Lineare Algebra/01 Algebraische Grundstrukturen/02 Arithmetik & Zahlenbereiche/01 Euklidischer Algorithmus & Kettenbrüche.md",
+    "Lineare Algebra/01 Algebraische Grundstrukturen/03 Algebraische Strukturen/Übersicht.png",
+    "Lineare Algebra/01 Algebraische Grundstrukturen/03 Algebraische Strukturen/03 Grundstrukturen - Ringe und Körper.md",
+    "Lineare Algebra/01 Algebraische Grundstrukturen/03 Algebraische Strukturen/01 Grundstrukturen - Gruppen.md",
+    "Lineare Algebra/02 Rechnen mit Matrizen/03 Rang und Invertierbarkeit.md",
+    "Lineare Algebra/02 Rechnen mit Matrizen/02 LGS Theorie und Gauss.md",
+    "Lineare Algebra/02 Rechnen mit Matrizen/01 Matrix und Vektorraum.md",
     "Rechnen mit Matrizen/03 Rang und Invertierbarkeit.md",
     "Rechnen mit Matrizen/02 LGS Theorie und Gauss.md",
     "Rechnen mit Matrizen/01 Matrix und Vektorraum.md",
     "Rang einer Matrix.md",
     "Inverse einer Matrix.md",
-    "Lineare Gleichugssysteme.md",
-    "Zeilenoperationen.md",
-    "LGSUndElementarmatrizen.md",
-    "Matrizen und Matrizen.md",
-    "Matrix und Vektorrechnung.md",
-    "Vektorräume/Lineare Abbildungen/01 Lineare Abbildungen.md",
-    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen/03 Relationen & Äquivalenzrelationen.md",
-    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen/02 Permutationen.md",
-    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen/01 Abbildungen und Funktionen.md",
-    "Algebraische Grundstrukturen/Arithmetik & Zahlenbereiche/02 Komplexen Zahlen.md",
-    "Algebraische Grundstrukturen/Arithmetik & Zahlenbereiche/01 Euklidischer Algorithmus & Kettenbrüche.md",
-    "Algebraische Grundstrukturen/Algebraische Strukturen/03 Grundstrukturen - Ringe und Körper.md",
-    "Algebraische Grundstrukturen/Algebraische Strukturen/02 Homomorphismen & Quotientengruppen.md",
-    "Algebraische Grundstrukturen/Algebraische Strukturen/01 Grundstrukturen - Gruppen.md",
-    "Vektorräume/Quotientenräume & Isomorphie/01 Der Isomorphiesatz.md",
-    "Vektorräume/Lineare Abbildungen/03 Der Dimensionssatz.md",
-    "Vektorräume/Lineare Abbildungen/02 Transformationen von Räumen.md",
-    "Vektorräume/Grundlagen/03 Dimension eines Vektorraums.md",
-    "Vektorräume/Grundlagen/02 Span eines Vektorraums.md",
-    "Vektorräume/Grundlagen/01 Vektorraum Grundlagen.md",
-    "Matrixoperationen.md",
     "Rechnen mit Matrizen",
     "Vektorräume/Quotientenräume & Isomorphie",
     "Vektorräume/Lineare Abbildungen",
@@ -228,8 +221,6 @@
     "Untitled.canvas",
     "Vektorräume",
     "Algebraische Grundstrukturen/Algebraische Strukturen",
-    "Algebraische Grundstrukturen/Arithmetik & Zahlenbereiche",
-    "Algebraische Grundstrukturen/Mengentheoretische Grundlagen",
-    "Algebraische Grundstrukturen"
+    "Algebraische Grundstrukturen/Arithmetik & Zahlenbereiche"
   ]
 }
