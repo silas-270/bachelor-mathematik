@@ -48,12 +48,12 @@ Seien $(a_n) \to a$ und $(b_n) \to b$.
 
 | Operation | Regel | Bedingung |
 | :--- | :--- | :--- |
-| **Summe/Diff** | $\lim (a_n \pm b_n) = a \pm b$ | |
-| **Produkt** | $\lim (a_n \cdot b_n) = a \cdot b$ | |
-| **Quotient** | $\lim \frac{a_n}{b_n} = \frac{a}{b}$ | $b \neq 0, b_n \neq 0$ |
-| **Betrag** | $\lim |a_n| = |a|$ | |
+| **Summe/Diff** | $\lim (a_n \pm b_n) = a \pm b$ |
+| **Produkt** | $\lim (a_n \cdot b_n) = a \cdot b$ |
+| **Quotient** | $\lim \frac{a_n}{b_n} = \frac{a}{b}$ | $b \neq 0, b_n \neq 0$
+| **Betrag** | $\lim |a_n| = |a|$ |
 | **Wurzel** | $\lim \sqrt{a_n} = \sqrt{a}$ | $a_n \ge 0$ |
-| **Komplex** | $\lim a_n = a \iff \lim \operatorname{Re}(a_n) = \operatorname{Re}(a) \land \lim \operatorname{Im}(a_n) = \operatorname{Im}(a)$ | |
+| **Komplex** | $\lim a_n = a \iff \lim \operatorname{Re}(a_n) = \operatorname{Re}(a) \land \lim \operatorname{Im}(a_n) = \operatorname{Im}(a)$ |
 
 > [!warning] Achtung bei unbestimmten Ausdrücken
 > Ausdrücke wie $\frac{0}{0}, \frac{\infty}{\infty}, 0 \cdot \infty, \infty - \infty, 1^\infty$ erlauben **keine** direkte Aussage. Hier muss umgeformt werden!
